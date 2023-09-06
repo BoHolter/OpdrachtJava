@@ -7,8 +7,8 @@ line(10,10,190,190);
 
 stroke(0,255,255);
 strokeWeight(9);
-line(100,50,50,190);
+line(200,0,0,200);
 
 stroke(0,25,255);
 strokeWeight(4);
-line(120,50,50,120);
+line(100,0,100,200);
