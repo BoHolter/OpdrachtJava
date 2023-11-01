@@ -77,7 +77,7 @@ void draw() {
   background(255);
   //int[] Kleurenopgeslagen;
   text("score: " + score, 400, 100);
-  //text("topscore: " + topscore, 700, 100);
+  text("topscore: " + topscore, 700, 100);
 
   kleurtjerandom();
   //println(start);
@@ -198,6 +198,7 @@ void Check(int knop) {
   } else {
     start = false;
     player = false;
+    topscore = score ;
     Start.show();
   }
 }
