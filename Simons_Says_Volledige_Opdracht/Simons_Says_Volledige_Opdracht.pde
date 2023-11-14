@@ -203,16 +203,11 @@ void Check(int knop) {
   }
 }
 
-/*void Rondeover(){
- if(verloren){
- opslaan[] == opslaan1[];
- }
- 
- 
- }*/
-/*void score() {
- fill(0,0,0);
- text("score: " + score, 100, 100);
- text("topscore: " + topscore, 700, 100);
- 
- }*/
+/*
+ik vond dit een heel leuk project maar soms had ook de motivatie niet maar toch is het gelukt en ik ben heel ongeduldig omdat het heel lang duurt messtal maar omdat ik dit leuk vind is dat minder zo erg dan normaal 
+en als het werkt wordt ik er heel blij van en nog meer als ik het aan me moeder en vader laat zien die het ook heel gaaf vinden maar er niks van begrijpen 
+
+en bij de meeste code moet ik het ff lezen om het te begrijpen maat het meeste begrijp ik wel 
+en er zit nog een bug in die ik niet weet om te verhelpen maar ik wel graag zou willen verhelpen .
+
+*/
